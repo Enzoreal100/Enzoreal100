@@ -1,7 +1,8 @@
 # Hello there! I'm Enzo Real, but you can call me "Bdeguinha"!😁
 ## Welcome to my GitHub Profile!
 *Software Engineering | FIAP*
--🌎Currently Based on São Paulo, Brazil
+
+🌎Currently Based on São Paulo, Brazil
 
 ### 🌱 I’m currently learning:
 - Web Development in <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width = '20'/> and <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width = '20'/>
